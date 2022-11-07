@@ -8,7 +8,7 @@ SECRET_KEY = config('SECRET_KEY')
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    'mywebsite.herokuapp.com', 
+    'veco-blog2.herokuapp.com', 
     'mywebsite.com'
 ]
 
